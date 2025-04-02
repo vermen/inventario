@@ -8,3 +8,4 @@ router.get("/", categoriaController.getCategorias )
 
 /* hacemos disponible a router en toda la app */
 export default router;
+ 
